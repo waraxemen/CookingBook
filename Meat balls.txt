@@ -1,6 +1,6 @@
-Рецепт - Фрикадельки
-Говядина
-Лук
-Яйцо
-Соль
-Вода
+Recepie Meat Balls
+Meat	500gr
+Onion	200gr
+Egg	80gr
+Water	100gr
+Salt	5gr
